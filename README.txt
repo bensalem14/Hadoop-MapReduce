@@ -9,4 +9,4 @@ cette partie a été implémentée dans google collab
 -Le temps d'éxcution a été 40.604s sur 2 core 12threads
 -20news-18828.tar.gz  contient les grand fichier dans lequelles le traitement va etre executer 
 
-Ressource : https://blog.devgenius.io/big-data-processing-with-hadoop-and-spark-in-python-on-colab-bff24d85782f
+
